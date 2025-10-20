@@ -75,5 +75,3 @@ Remarque : le log Streamlit affiche `URL: http://0.0.0.0:8501` — utilisez `htt
 - Ne pas utiliser pour collecter des données personnelles à grande échelle sans accord.
 - Ne pas partager de clés/identifiants dans le code.
 - Tester d'abord localement avant d'exécuter massivement en production.
-
-Si vous voulez, j'ajoute une section pas-à-pas pour debugging (logs, capture d'écran via Selenium) ou j'adapte les instructions Docker à WSL2/Remote Docker.
